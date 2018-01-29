@@ -19,4 +19,3 @@ Return date format : Sat Jan 27 00:00:00 CST 2018
 3. Start using it.
 
 
-![Screen Shot 2018-01-29 at 10.47.18](/Users/riteshgaur/Desktop/Screen Shot 2018-01-29 at 10.47.18.png)
